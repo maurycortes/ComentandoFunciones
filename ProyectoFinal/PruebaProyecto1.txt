@@ -1,0 +1,44 @@
+<!DOCTYPE>
+<html>
+<head>
+<style type="text/css">
+body {background-color:lightblue}
+<title>
+PruebaProyecto1.cpp
+</title>
+</style>
+</head>
+<body>
+<h1>
+<big>
+<p style="color:blue;margin-left:10px">
+Programa:  Funcion Factorial<br>
+</p>
+</big>
+</h1>
+<strong> <dd> Autor: </strong> Yolanda Martinez</dd> <br>
+<strong> <dd> Fecha de elaboraci&oacute;n: </strong> 18 de Diciembre de 2014</dd> <br>
+<h2>
+<p style="margin-left:10px">
+<hr><br> Funci&oacute;n:  factorial<br>
+</p>
+</h2>
+<i> 
+<strong> <dd> Descripci&oacute;n: </strong>  función que calcula el factorial de un número</dd> <br>
+</i> <strong> <dd> Par&aacute;metro: </strong> iNum valor al que se le va a encontrar el factorial. Debe ser entero positivo.</dd> <br>
+<strong> <dd> Valor de Retorno: </strong> factorial del valor iNum</dd> <br>
+<h2>
+<p style="margin-left:10px">
+<hr><br> Funci&oacute;n:  validaEntero<br>
+</p>
+</h2>
+<i> 
+<strong> <dd> Descripci&oacute;n: </strong>  Función que no recibe parámetro, pide al usuario un valor y valida que sea entre 1 y 10</dd> <br>
+</i> <strong> <dd> Valor de Retorno: </strong> regresa un valor entero entre 1 y 10 que le pide al usuario</dd> <br>
+<h2>
+<p style="margin-left:10px">
+<hr><br> Funci&oacute;n:  main<br>
+</p>
+</h2>
+</body
+</html>
